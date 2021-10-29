@@ -8,7 +8,7 @@ module.exports = {
           has: [
             {
               type: 'host',
-              value: 'popup.yeastyboysbread.com',
+              value: 'popup.northboundyoga.com',
             },
           ],
           destination: '/popup/:path*',
